@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/index.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/crc16.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/crc32.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/md2.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/md4.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/md5.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha1.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha512_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha512_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha3_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha3_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha3_384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha3_512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/keccak_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/keccak_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/keccak_384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/keccak_512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/shake_128.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/shake_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/crc32_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/md5_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/sha1_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base32_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base32_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base64_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base64_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base64_encode_file.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/base64_decode_file.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/html_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/html_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/url_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/url_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://flechanegra.github.io/web-arrows/syntax_highlight.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+</urlset>
