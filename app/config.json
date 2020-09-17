@@ -1,10 +1,10 @@
-{
+ {
   "output": "..",
   "locals": {
     "url": "http://localhost:8080",
     "name": "web-arrows",
     "owner": "flechanegra1977@gmail.com",
-    "description": "Online tools writing by JavaScript"
+    "description": "Web Arrows writing by JavaScript"
   },
   "plugins": [
   ],
